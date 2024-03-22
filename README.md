@@ -2,18 +2,19 @@
 ## I hope these will be helpful, they work on Linux & Windows, you will need to add consumer.py and keyconfig.py for some macros to work, there is no code editing needed from the default example. ##  
 
 My Custom macros :
+```
 Gamepad - Top number row for gaming keybinds
 Github - terminal github commands
 Linux-Firefox - Firefox shortcuts works with windows & linux
-media - media controls
-mouse - self explainatory
-numpad - " " "
+Media - media controls
+Mouse - self explainatory
+Numpad - " " "
 Sleep - All LED's off & Screen Sleep
 Twitter - Twitter shortcuts
 Vim - Vim editor terminal command shortcuts
-win-youtube - Youtube controls 
+Win-Youtube - Youtube controls 
 Zoom - Zoom keyboard shortcuts, I'd reccommend going into settings and rebinding to your Macropad keys, some Zoom binds aren't cooperative with macropad so some are changed
-
+```
 
 
 ### Video Showing Off : ###
