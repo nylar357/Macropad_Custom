@@ -5,7 +5,7 @@ My Custom macros :
 ```
 Gamepad - Top number row for gaming keybinds
 Github - terminal github commands
-Linux-Firefox - Firefox shortcuts works with windows & linux (back&forward exception)
+Linux-Firefox - Firefox shortcuts works with windows & linux (back&forward on win exception)
 Media - media controls
 Mouse - self explainatory
 Numpad - " " "
