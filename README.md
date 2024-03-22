@@ -1,7 +1,5 @@
 # Macropad Custom Macro's # 
-## I hope these will be helpful, they work on Linux & Windows. 
-You will need to add consumer.py and keyconfig.py for some macros to work. 
-There is no code editing needed from the default example. ##  
+## I hope these will be helpful, they work on Linux & Windows. You will need to add consumer.py and keyconfig.py for some macros to work. There is no code editing needed from the default example. ##  
 
 My Custom macros :
 ```
