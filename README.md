@@ -26,3 +26,7 @@ pad & the custom macros so you can preview the colors & usages
 ## Libraries Needed : ## 
 
 ![preview](img/libs.png)
+
+
+
+# ⻏丫 : 𝓝丫㇄闩尺 #
