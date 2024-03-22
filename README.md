@@ -13,7 +13,7 @@ Sleep - All LED's off & Screen Sleep
 Twitter - Twitter shortcuts
 Vim - Vim editor terminal command shortcuts
 Win-Youtube - Youtube controls 
-Zoom - Zoom keyboard shortcuts, I'd reccommend going into settings and rebinding to your Macropad keys, some Zoom binds aren't cooperative with macropad so some are changed
+Zoom - Zoom keyboard shortcuts -- rebind in app to your Macropad keys, some binds aren't cooperative and have been changed
 ```
 
 
