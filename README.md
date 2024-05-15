@@ -8,6 +8,7 @@ Github - terminal github commands
 Linux-Firefox - Firefox shortcuts works with windows & linux (back&forward on win exception)
 Media - media controls
 Mouse - self explainatory
+Navigation - Linux workspace quick navigation, launcher control, and window control
 Numpad - " " "
 Sleep - All LED's off & Screen Sleep
 Twitter - Twitter shortcuts
