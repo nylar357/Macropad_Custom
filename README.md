@@ -21,13 +21,10 @@ PyCharm - SADLY NOT WORKING PLEASE HELP!
 
 ### Video Showing Off : ###
 
-my pad with gateron keys and pastel keycaps 
+my pad with gateron keys and pastel keycaps -- click for previews video
 
-[![Watch the video](img/PXL_20250111_173036128~2.jpg)](https://drive.google.com/file/d/1OkM35H5JMKi8IyD0W4z_KFdTgOIuRZa8)
+[![Watch the video](img/PXL_20250111_173036128~2.jpg)](https://youtube.com/shorts/odwaIkPq_Fo?si=74U0X9hWe-VAtiN0)
 
-pad & the custom macros so you can preview the colors & usages
-
-[![Watch the video](https://cdn-shop.adafruit.com/970x728/5128-12.jpg)](https://youtube.com/shorts/R12l9GxiTE0?si=AsXMO3ngsdSoHTXV)
 
 
 ## Libraries Needed : ## 
