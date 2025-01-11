@@ -23,7 +23,7 @@ PyCharm - SADLY NOT WORKING PLEASE HELP!
 
 my pad with gateron keys and pastel keycaps 
 
-![preview](img/PXL_20250111_173036128~2.jpg)
+[![Watch the video](img/PXL_20250111_173036128~2.jpg)](https://drive.google.com/file/d/1OkM35H5JMKi8IyD0W4z_KFdTgOIuRZa8)
 
 pad & the custom macros so you can preview the colors & usages
 
