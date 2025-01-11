@@ -3,18 +3,19 @@
 
 My Custom macros :
 ```
-Gamepad - Top number row for gaming keybinds
 Github - terminal github commands
 Linux-Firefox - Firefox shortcuts works with windows & linux (back&forward on win exception)
 Media - media controls
 Mouse - self explainatory
-Navigation - Linux workspace quick navigation, launcher control, and window control
-Numpad - " " "
-Sleep - All LED's off & Screen Sleep
+Navigation  - Arch based Linux Desktop Navigation
+Navigations - Ubuntu baseed Linux Desktop Navigation
+Numpad - self explainatory
+Tones - Tones macro same as shipped with
 Twitter - Twitter shortcuts
 Vim - Vim editor terminal command shortcuts
 Win-Youtube - Youtube controls 
 Zoom - Zoom keyboard shortcuts -- rebind in app to your Macropad, some binds aren't cooperative and have been changed
+PyCharm - SADLY NOT WORKING PLEASE HELP!
 ```
 
 
