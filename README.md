@@ -19,6 +19,11 @@ Zoom - Zoom keyboard shortcuts -- rebind in app to your Macropad, some binds are
 
 
 ### Video Showing Off : ###
+
+my pad with gateron keys and pastel keycaps 
+
+![preview](img/PXL_20250111_173036128~2.jpg)
+
 pad & the custom macros so you can preview the colors & usages
 
 [![Watch the video](https://cdn-shop.adafruit.com/970x728/5128-12.jpg)](https://youtube.com/shorts/R12l9GxiTE0?si=AsXMO3ngsdSoHTXV)
