@@ -2,7 +2,8 @@
 ## I hope these will be helpful, they work on Linux & Windows. You will need to add consumer.py and keyconfig.py for some macros to work. There is no code.py editing needed from the default example. ##  
 
 # NEW! Spotify #
-## The spotify binds include a special key to focus spotify or if it isn't running the script will start it up and then focus it.  Makes it super easy to go directly to Spotify despite what you may be doing at the time or what workspace your on.  The script is rof.sh in the main branch, it has two simple dependencies ```wmctrl``` and ```xprop``` ##
+## The spotify binds include a special key to focus spotify or if it isn't running the script will start it up and then focus it.  Makes it super easy to go directly to Spotify despite what you may be doing at the time or what workspace your on.  The script is rof.sh in the main branch, it has two simple dependencies : ##
+```sudo apt-get install xprop wmctrl```
 
 My Custom macros :
 ```
