@@ -48,27 +48,42 @@ The `Spotify` macro uses `rof.sh` (located in the main branch) to check if Spoti
 ```bash
 sudo apt-get install xprop wmctrl
 ```
+---
 
-Layer Description
-Spotify NEW! Special bindings to focus/launch Spotify instantly.
+## Layer Description
+### Spotify NEW!###
+Special bindings to focus/launch Spotify instantly.
 
-Github Terminal commands for common GitHub workflows.
+## Github Terminal 
+### commands for common GitHub workflows.
 
-Linux-Firefox Shortcuts for Firefox (Works on Windows & Linux; Back/Forward buttons have Windows exception).
+## Linux-Firefox 
+### Shortcuts for Firefox (Works on Windows & Linux; Back/Forward buttons have Windows exception).
 
-Media Standard media controls (Play/Pause, Vol +/-, Next/Prev).
+## Media Standard 
+### media controls (Play/Pause, Vol +/-, Next/Prev).
 
-Mouse Emulates mouse movement and clicks.
-Navigation Desktop navigation shortcuts tailored for Arch Linux.
+## Mouse Emulates 
+### mouse movement and clicks.
 
-Navigations Desktop navigation shortcuts tailored for Ubuntu.
+## Navigation 
+### Desktop navigation shortcuts tailored for Arch Linux.
 
-Numpad Standard Number Pad layout.
-Tones Plays tones (same functionality as the default shipping example).
+## Navigations 
+### Desktop navigation shortcuts tailored for Ubuntu.
 
-Twitter Shortcuts for navigating Twitter (X).
+## Numpad Standard 
+### Number Pad layout.
 
-Vim Terminal command shortcuts for the Vim text editor.
+## Tones Plays 
+### tones (same functionality as the default shipping example).
 
-Win-Youtube YouTube playback controls (specifically for Windows).
+## Twitter 
+### Shortcuts for navigating Twitter (X).
+
+## Vim 
+### Terminal command shortcuts for the Vim text editor.
+
+## Win-Youtube 
+### YouTube playback controls (specifically for Windows).
 
