@@ -47,6 +47,7 @@ The `Spotify` macro uses `rof.sh` (located in the main branch) to check if Spoti
 **Install dependencies via terminal:**
 ```bash
 sudo apt-get install xprop wmctrl
+```
 
 Layer Description
 Spotify NEW! Special bindings to focus/launch Spotify instantly.
