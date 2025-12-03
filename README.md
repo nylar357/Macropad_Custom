@@ -50,40 +50,39 @@ sudo apt-get install xprop wmctrl
 ```
 ---
 
-## Layer Description
-### Spotify NEW!###
+## Layer Description Spotify NEW! 
 Special bindings to focus/launch Spotify instantly.
 
 ## Github Terminal 
-### commands for common GitHub workflows.
+commands for common GitHub workflows.
 
 ## Linux-Firefox 
-### Shortcuts for Firefox (Works on Windows & Linux; Back/Forward buttons have Windows exception).
+Shortcuts for Firefox (Works on Windows & Linux; Back/Forward buttons have Windows exception).
 
 ## Media Standard 
-### media controls (Play/Pause, Vol +/-, Next/Prev).
+media controls (Play/Pause, Vol +/-, Next/Prev).
 
 ## Mouse Emulates 
-### mouse movement and clicks.
+mouse movement and clicks.
 
 ## Navigation 
-### Desktop navigation shortcuts tailored for Arch Linux.
+Desktop navigation shortcuts tailored for Arch Linux.
 
 ## Navigations 
-### Desktop navigation shortcuts tailored for Ubuntu.
+Desktop navigation shortcuts tailored for Ubuntu.
 
 ## Numpad Standard 
-### Number Pad layout.
+Number Pad layout.
 
 ## Tones Plays 
-### tones (same functionality as the default shipping example).
+tones (same functionality as the default shipping example).
 
 ## Twitter 
-### Shortcuts for navigating Twitter (X).
+Shortcuts for navigating Twitter (X).
 
 ## Vim 
-### Terminal command shortcuts for the Vim text editor.
+Terminal command shortcuts for the Vim text editor.
 
 ## Win-Youtube 
-### YouTube playback controls (specifically for Windows).
+YouTube playback controls (specifically for Windows).
 
