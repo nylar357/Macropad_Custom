@@ -3,7 +3,7 @@
 A collection of custom macros for the **Adafruit Macropad RP2040**. I hope these will be helpful! They are designed to work on both **Linux & Windows**.
 
 ## 📺 Demo
-Check out the macros in action:
+Check out the macros in action -- worth a mention I used Gateron-Green(high pressure/clicky sound) key switches & blank pastel keycaps:
 
 [![Adafruit Macropad Custom Macros](https://img.youtube.com/vi/odwaIkPq_Fo/0.jpg)](https://www.youtube.com/watch?v=odwaIkPq_Fo)
 
