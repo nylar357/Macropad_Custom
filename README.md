@@ -23,6 +23,15 @@ This project runs on the [Adafruit Macropad RP2040](https://www.adafruit.com/pro
 
 ---
 
+## 🎵 Spotlight: Spotify Integration
+### The Spotify bindings are designed for seamless context switching.
+Script: rof.sh (Main Branch)
+Function: Detects if Spotify is running.
+If Running: Focuses the window immediately.
+If Closed: Starts the application and then focuses it.
+
+---
+
 ## 🚀 Installation & Setup
 
 ### 1. CircuitPython Files
@@ -62,11 +71,3 @@ Vim Terminal command shortcuts for the Vim text editor.
 
 Win-Youtube YouTube playback controls (specifically for Windows).
 
-🎵 Spotlight: Spotify Integration
-The Spotify bindings are designed for seamless context switching.
-Script: rof.sh (Main Branch)
-Function: Detects if Spotify is running.
-If Running: Focuses the window immediately.
-If Closed: Starts the application and then focuses it.
-
-http://googleusercontent.com/youtube_content/0 *YouTube video views will be stored in your YouTube History, and your data will be stored and used by YouTube according to its [Terms of Service](https://www.youtube.com/static?template=terms)*
